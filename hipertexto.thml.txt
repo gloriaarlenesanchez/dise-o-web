@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+
+<html>
+<head>
+    <title>El Arte</title>
+</head>
+<body bgcolor="beige">
+
+    <h1>El Arte</h1>
+
+    <p>
+        El arte es una forma de expresión humana que permite comunicar
+        ideas, emociones y experiencias. A lo largo de la historia han
+        surgido diferentes manifestaciones artísticas.
+    </p>
+
+    <h2>Temas relacionados</h2>
+
+    <ul>
+        <li><a href="#pintura">Pintura</a></li>
+        <li><a href="#escultura">Escultura</a></li>
+        <li><a href="#musica">Música</a></li>
+        <li><a href="#arquitectura">Arquitectura</a></li>
+    </ul>
+
+    <h2 id="pintura">Pintura</h2>
+    <p>
+        La pintura es una de las expresiones artísticas más antiguas y se
+        realiza mediante colores aplicados sobre una superficie.
+    </p>
+
+    <h2 id="escultura">Escultura</h2>
+    <p>
+        La escultura consiste en crear figuras tridimensionales utilizando
+        materiales como piedra, madera o metal.
+    </p>
+
+    <h2 id="musica">Música</h2>
+    <p>
+        La música es el arte de organizar sonidos y silencios para crear
+        composiciones que transmiten emociones.
+    </p>
+
+    <h2 id="arquitectura">Arquitectura</h2>
+    <p>
+        La arquitectura combina arte y técnica para diseñar y construir
+        espacios funcionales y estéticos.
+    </p>
+
+</body>
+</html>
